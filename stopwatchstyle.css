@@ -1,0 +1,15 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+:root{
+ 
+    --colour1: #81dfea;     
+    --colour2: hwb(180 96% 2%);     
+}
+body{
+    background-color:#f2af71;
+
+
+    
+}
