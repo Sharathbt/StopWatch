@@ -8,8 +8,16 @@
     --colour2: hwb(180 96% 2%);     
 }
 body{
-    background-color:#f2af71;
-
-
-    
+    background-color:#32dfd9; 
+    display: flex;
+    font-size: 20px;  
+}
+#numbers{
+    font-size: 100px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+span{
+    font-size: 50px;
 }
