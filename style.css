@@ -3,9 +3,12 @@
     padding: 0;
 }
 
+/*This is a code block that defines some CSS variables using the :root selector. CSS variables
+ are custom properties that can be reused throughout your stylesheet.*/
 :root {
     --primary-color: #0AD6A0;
     --secondary-color: white;
+    /**/
 }
 
 body {
